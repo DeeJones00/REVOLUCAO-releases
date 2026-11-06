@@ -1,5 +1,18 @@
 {
-  "versao": "0.0.0",
-  "notas": "",
-  "arquivos": {}
+  "versao": "0.1.0",
+  "notas": "Primeira versão: painel Elétrica com Quadros Elétricos v1.7.2 e Nomear Circuitos v1.4.0; botão Atualizações.",
+  "arquivos": {
+    "2024": {
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.1.0/REVOLUCAO-0.1.0-2024.zip",
+      "sha256": "e75669869ee65ccd1225214cf5e4999a5ff8cb0b9734f806a63b89b8fc587e2b"
+    },
+    "2025": {
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.1.0/REVOLUCAO-0.1.0-2025.zip",
+      "sha256": "76e116fdb3d5e9767acadec5bce62a6e53e889099c0af9738bb06502626f893e"
+    },
+    "2026": {
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.1.0/REVOLUCAO-0.1.0-2026.zip",
+      "sha256": "836243d55e625788d0621f94f3394dd9641743dcb60f14ffc7b8de0c005dfb52"
+    }
+  }
 }
