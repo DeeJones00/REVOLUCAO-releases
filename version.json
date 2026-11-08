@@ -1,18 +1,18 @@
 {
-  "versao": "0.3.0",
-  "notas": "Nova identidade visual Revolucao Eletrica com tema claro e escuro automatico, fonte Poppins e logo. Novos comandos: Configuracoes, Limpar Projeto, Niveis, Duplicar Vistas, Renomear em lote, Pintar MEP (eletrica), Cotas rapidas, Ferramentas MEP e Lancar Tags (eletrica). Termo de uso e protecao do codigo.",
+  "versao": "0.3.1",
+  "notas": "Quadros Elétricos 1.8.1 (lê o unifilar de OF, JC e ricaun, DR de grupo, Lançar disjuntores, Limpar quadro e Personalizar com arrasto); Lançar Tags 3.2.3 só elétrica (revisão final das sobreposições, janela de resultado com Isolar conflitos, módulos 4x2 com tag).",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.0/REVOLUCAO-0.3.0-2024.zip",
-      "sha256": "851a73aabea0a493a2b05db14d1f86f47872e5ac7ff4daddb73169e04ff25c45"
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.1/REVOLUCAO-0.3.1-2024.zip",
+      "sha256": "eff057de48ad1ed4857a4b84611a2237148508c23a96cc140522a1ba05a1bcf9"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.0/REVOLUCAO-0.3.0-2025.zip",
-      "sha256": "37ad815797c56bf4569ce133f10fd724ea46a0bf67e4eba516bb4d8f85ab6433"
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.1/REVOLUCAO-0.3.1-2025.zip",
+      "sha256": "c77aabbfd4be5c0bdafd89880cdb994bb8e998369b0f6e8f5090cd20b468f3a9"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.0/REVOLUCAO-0.3.0-2026.zip",
-      "sha256": "7f7b5d936b46f532aa4b9f88395ebdfbf0367e03129e544943d545ebe0fe94ff"
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.1/REVOLUCAO-0.3.1-2026.zip",
+      "sha256": "c2633ba2c29e73ae1865ff17c67a800f1adac8410f3a3e8626283c2144fcb2d0"
     }
   }
 }
