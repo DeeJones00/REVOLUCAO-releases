@@ -1,18 +1,18 @@
 {
-  "versao": "0.3.1",
-  "notas": "Quadros Elétricos 1.8.1 (lê o unifilar de OF, JC e ricaun, DR de grupo, Lançar disjuntores, Limpar quadro e Personalizar com arrasto); Lançar Tags 3.2.3 só elétrica (revisão final das sobreposições, janela de resultado com Isolar conflitos, módulos 4x2 com tag).",
+  "versao": "0.4.0",
+  "notas": "Nomes padronizados; novos botões Teclas de iluminação, Adaptadores PVC/BSP, Criar corte, Curva de transposição e Emissão de pranchas (painel Entrega); Configurações v2.6; Lançar tags v3.3.5 (elétrica); Cotas rápidas fora da faixa.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.1/REVOLUCAO-0.3.1-2024.zip",
-      "sha256": "eff057de48ad1ed4857a4b84611a2237148508c23a96cc140522a1ba05a1bcf9"
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.4.0/REVOLUCAO-0.4.0-2024.zip",
+      "sha256": "b5b8aeec0a7241469edc8f42be5ce930f3edd62f6d984a90b8387068a728583a"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.1/REVOLUCAO-0.3.1-2025.zip",
-      "sha256": "c77aabbfd4be5c0bdafd89880cdb994bb8e998369b0f6e8f5090cd20b468f3a9"
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.4.0/REVOLUCAO-0.4.0-2025.zip",
+      "sha256": "b385cd085c461c4085dbc082b383af7b1990f41a5e3354a70767fc9f774838ba"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.3.1/REVOLUCAO-0.3.1-2026.zip",
-      "sha256": "c2633ba2c29e73ae1865ff17c67a800f1adac8410f3a3e8626283c2144fcb2d0"
+      "url": "https://github.com/DeeJones00/REVOLUCAO-releases/releases/download/v0.4.0/REVOLUCAO-0.4.0-2026.zip",
+      "sha256": "33c87ac850c76b0fae6e05f7358b4a2cf0e3af12aae67568ada01016a4126424"
     }
   }
 }
